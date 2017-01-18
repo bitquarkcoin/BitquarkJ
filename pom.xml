@@ -27,7 +27,7 @@
 
   <name>bitquarkj Parent</name>
   <description>Provides the common configuration for the bitquarkJ modules</description>
-  <url>https://github.com/bitquark/bitquarkj</url>
+  <url>https://github.com/bitquarkcoin/bitquarkj</url>
 
   <licenses>
     <license>
